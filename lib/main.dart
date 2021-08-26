@@ -1,7 +1,7 @@
 import 'dart:math';
 import 'dart:ui';
 import 'package:circular_countdown_timer/circular_countdown_timer.dart';
-import 'package:Maths_game_/splashScreen.dart';
+import 'splashScreen.dart';
 import 'package:flutter/material.dart';
 
 void main() {

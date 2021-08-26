@@ -1,6 +1,6 @@
-import 'package:Maths_game_/main.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
+import 'package:maths_game/main.dart';
 
 class SplashScreenHome extends StatefulWidget {
   const SplashScreenHome({Key? key}) : super(key: key);
